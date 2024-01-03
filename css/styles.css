@@ -10995,9 +10995,6 @@ html {
     font-size: 1.5rem;
   }
 }
-.about {
-  background-color: rgb(143, 188, 143);
-}
 .about .about-item {
   cursor: pointer;
   position: relative;
