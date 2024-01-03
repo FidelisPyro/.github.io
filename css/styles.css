@@ -11021,7 +11021,7 @@ html {
 }
 
 .portfolio-modal .btn-close {
-  color: #1abc9c;
+  color: rgb(143, 200, 143);
   font-size: 2rem;
   padding: 1rem;
 }
