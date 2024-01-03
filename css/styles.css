@@ -10998,7 +10998,7 @@ html {
 .about {
   background-color: rgb(143, 188, 143);
 }
-.about-item {
+.about .about-item {
   cursor: pointer;
   position: relative;
   display: block;
