@@ -42,7 +42,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 143, 200, 143;
+  --bs-primary-rgb: 143, 188, 143;
   --bs-secondary-rgb: 44, 62, 80;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -10832,7 +10832,7 @@ html {
 
 .page-section {
   padding: 6rem 0;
-  background-color: #343a40;
+  background-color: #343a40;;
 }
 .page-section .page-section-heading {
   font-size: 2.25rem;
@@ -11003,7 +11003,6 @@ html {
   max-width: 25rem;
   border-radius: 0.5rem;
   overflow: hidden;
-  background-color: rgb(143, 200, 143);
 }
 .portfolio .portfolio-item .portfolio-item-caption {
   position: absolute;
@@ -11011,7 +11010,7 @@ html {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: #343a40;
+  background-color: rgba(26, 188, 156, 0.9);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
